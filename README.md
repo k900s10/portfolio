@@ -1,4 +1,5 @@
 # Rahmat Alif A.
+Click the picture for more info.
 
 ## Music App
 
