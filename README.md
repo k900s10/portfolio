@@ -16,7 +16,7 @@ You can find the weekly top music chart and look for their lyrics. For Android M
 Movie App is a mobile app that helps users find all things movie-related.
 #### Tag: single-activity architecture · Retrofit2 · Moshi · Coroutines · Koin Dependency Injection · Datastore · Retrofit2 · Glide · MVVM · SOLID principle
 
-<p align="center"><a href="https://github.com/k900s10/SyngryChallenges/tree/challenge5">
-  <img src="https://github.com/k900s10/SyngryChallenges/blob/challenge5/outputs/index.png" width="32%"/>
+<p align="center"><a href="https://github.com/k900s10/SyngryChallenges/tree/challenge-6">
+  <img src="https://github.com/k900s10/SyngryChallenges/blob/challenge-6/outputs/index.jpg" width="32%"/>
 </a></p>
 
