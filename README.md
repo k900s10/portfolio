@@ -20,4 +20,6 @@ Movie App is a mobile app that helps users find all things movie-related.
   <img src="https://github.com/k900s10/SyngryChallenges/blob/challenge-6/outputs/index.jpg" width="32%"/>
 </a></p>
 
+
+
 Thank you for your interest in my portfolio. I hope you enjoyed it.
